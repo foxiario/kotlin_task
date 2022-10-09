@@ -64,6 +64,5 @@ fun count(data : String) : String
 
         result += temp + "\n"
     }
-
     return result
 }
